@@ -1,7 +1,7 @@
 import React, { useRef, useState, useEffect } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { ReactLenis } from 'lenis/react';
-import { Monitor, Mic, Copy, Apple, Wind, Sparkles, Download, CheckCircle, Command } from 'lucide-react';
+import { Monitor, Mic, Copy, Apple, Wind, Download, CheckCircle, Command } from 'lucide-react';
 
 // --- CONSTANTES & ASSETS ---
 const ASSETS = {
